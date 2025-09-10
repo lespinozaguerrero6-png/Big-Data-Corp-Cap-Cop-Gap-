@@ -9,3 +9,5 @@ of the heart-rate devices supported is Polar H7, but it may work with others.
 
 I have only tested this code with Samsung S4 with the 4.3 firmware. If you
 test on others, please let me know. ©By Pelopedment 
+Creator Licensor Criteria                             Luis Alberto Espinoza Guerrero lespinozaguerrero6@gmail.com 
+Juricature 
