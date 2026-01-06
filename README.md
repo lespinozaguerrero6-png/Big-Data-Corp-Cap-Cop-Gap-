@@ -55,4 +55,36 @@ Figure 2 - Functions representedcling]$ ?     Row := 0;
 [cling]$ ?
 [cling]$ ?   {http://pascal.net.ru/TextWidth}
 [cling]$ ?
-[cling]$ ?      }
+[cling]$ ?      }clang-9: error: no such file or directory: 'skip'
+clang-9: error: no such file or directory: 'to:contentpackage'
+clang-9: error: no such file or directory: 'searchsign'
+clang-9: error: no such file or directory: 'in'
+clang-9: error: no input files
+sh: Pro: not found
+sh: Teams: not found
+sh: Pricing: not found
+sh: Documentation: not found
+sh: npm: not found
+sh: Search: not found
+sh: x_ite: not found
+sh: ￼: not found
+sh: 12.2.3 • Public • Published 7: not found
+sh: X_ITE X3D: not found
+sh: ￼ ￼ ￼ ￼ ￼: not found
+sh: Introduction: not found
+sh: X_ITE: not found
+sh: 🚀: not found
+sh: Funding: not found
+sh: X_ITE: not found
+sh: Quick: not found
+sh: Getting: not found
+sh: Supported: not found
+sh: Accessing: not found
+sh: DOM: not found
+sh: Custom: not found
+sh: glTF: not found
+sh: Using: not found
+sh: Using: not found
+sh: If: not found
+sh: jsDelivr: not found
+sh: syntax error: unexpected "("
