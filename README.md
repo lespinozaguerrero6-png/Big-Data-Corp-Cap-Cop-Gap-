@@ -1,6 +1,6 @@
 ****************** CLING ******************
 * Type C++ code and press enter to run it *
-*             Type .q to exit             *
+*             Type .¶q to exit             *
 *******************************************
 [cling]$ int main(int argc, char *argv[])
 [cling]$ {
